@@ -1,0 +1,17 @@
+h1{
+    color: cadetblue;
+    background-color: black;
+}
+
+#Home{
+    background-color: green;
+    text-emphasis-color: chocolate;
+}
+
+#Second{
+    background-color: aqua;
+}
+
+#Third{
+    background-color: darkgray;
+}
