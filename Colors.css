@@ -6,6 +6,7 @@ h1{
 #Home{
     background-color: green;
     text-emphasis-color: chocolate;
+    border: black;
 }
 
 #Second{
